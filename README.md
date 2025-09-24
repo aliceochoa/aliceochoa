@@ -41,13 +41,14 @@
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Procreate](https://img.shields.io/badge/-Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
 
+<!--
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aliceochoa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceochoa&layout=compact&theme=radical)
+## 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aliceochoa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=📈%20Minhas%20Estatísticas)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceochoa&layout=compact&theme=radical&count_private=true&langs_count=8&custom_title=🌐%20Linguagens%20mais%20usadas)
 
-<!--
 ---
 
 ## 🌟 Projetos em destaque
