@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou a Alice!
 
-💻 Desenvolvedora Front-End | 🎨 Ilustradora e (begginer) UI Designer | 📊 Exploradora de Dados
+💻 Desenvolvedora Front-End | 🎨 Ilustradora e (begginer) UI Designer | 📚 Estudante de Ciência da Computação e História da Arte
 
 ---
 
 ## 🚀 Sobre mim
 ✨ Criando soluções que unem **criatividade, tecnologia e dados**   
 🤓 Atualmente explorando **Back-end**, **Data Science** & **DevOps**   
-🖌️ Apaixonada por desenvolvimento web, UI/UX, ilustração e audiovisual  
+🖌️ Apaixonada por desenvolvimento web, UI/UX, ilustração digtal e audiovisual  
 📺 No tempo livre: jogos de tabuleiro, puzzles, livros (de Jane Austen até Agatha Christie), lego e tv/filmes  
 
 ---
