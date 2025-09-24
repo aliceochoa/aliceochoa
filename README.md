@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mim
 ✨ Criando soluções que unem **criatividade, tecnologia e dados**   
-🌱 Atualmente explorando **Back-end**, **Data Science** & **DevOps**   
+🤓 Atualmente explorando **Back-end**, **Data Science** & **DevOps**   
 🖌️ Apaixonada por desenvolvimento web, UI/UX, ilustração e audiovisual  
-🎮 No tempo livre: jogos de tabuleiro, puzzles, livros (de Jane Austen até Agatha Christie), lego e tv/filmes  
+📺 No tempo livre: jogos de tabuleiro, puzzles, livros (de Jane Austen até Agatha Christie), lego e tv/filmes  
 
 ---
 
@@ -41,9 +41,18 @@
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Procreate](https://img.shields.io/badge/-Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
 
-<!--
 ---
 
+## 🌟 Meus Projetos
+
+- 📔 **Projetos da Academia Globotech - Ada**  
+  👉 [Ver lista completa](https://github.com/stars/aliceochoa/lists/academia-globotech-ada)
+
+- ✏️ **Projetos Pessoais**  
+  👉 [Ver lista completa](https://github.com/stars/aliceochoa/lists/projetos-pessoais)
+
+
+<!--
 ## 📊 Estatísticas
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aliceochoa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=📈%20Minhas%20Estatísticas)  
