@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Alice!
 
-💻 Desenvolvedora Front-End | 🎨 Ilustradora e (begginer) UI Designer | 📚 Estudante de Ciência da Computação e História da Arte
+💻 Desenvolvedora Front-End | 🎨 Ilustradora e (beginner) UI Designer | 📚 Estudante de Ciência da Computação e História da Arte
 
 ---
 
