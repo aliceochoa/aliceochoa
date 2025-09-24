@@ -8,7 +8,7 @@
 ✨ Criando soluções que unem **criatividade, tecnologia e dados**   
 🤓 Atualmente explorando **Back-end**, **Data Science** & **DevOps**   
 🖌️ Apaixonada por desenvolvimento web, UI/UX, ilustração digtal e audiovisual  
-📺 No tempo livre: jogos de tabuleiro, puzzles, livros (de Jane Austen até Agatha Christie), lego e tv/filmes  
+📺 No tempo livre: viagens, jogos de tabuleiro, puzzles, livros (de Jane Austen até Agatha Christie), lego e tv/filmes  
 
 ---
 
